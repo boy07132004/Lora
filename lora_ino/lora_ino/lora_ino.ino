@@ -1,5 +1,5 @@
 #include  <SoftwareSerial.h>  
-SoftwareSerial Lora(10, 11); // RX | TX  
+SoftwareSerial Lora(11, 10); // RX | TX  
 /*
   AT+ADDRESS=your_address (0~65535)
   AT+PARAMETER=12,7,1,4
