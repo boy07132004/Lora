@@ -1,5 +1,4 @@
 # Lora  
-### *This is a python module for RYLR896.*
 
 ## 校正
 If you recieve different message, try modify the lora baudrate to 9600.\
